@@ -1,4 +1,4 @@
-## Created by Abdulmajeed Kawther
+## Created by Abdulmajeed Kawther for udacity nano degree
 
 This repository contains projects did for Udacity Programming For Data Science Using Python Nanodegree.
 
@@ -11,6 +11,7 @@ In this project, you will make use of Python to explore data related to bike sha
 The developed CLI program allows the user to explore an US bikeshare system database and retrieve statistics information from the database. The user is able filter the information by city, month and weekday, in order to visualize statistics information related to a specific subset of data. The user is also able to chose to view raw data and to sort this data by columns, in ascending or descending order.
 
 
+
 ## project Version control :
 
 ### Overview:
@@ -18,3 +19,5 @@ The developed CLI program allows the user to explore an US bikeshare system data
 This project consisted in using Git and GitHub with a simulated workflow to refactor Project 2.
 
 The Project Submission consisted in the filling of a template with all the Git commands used to perform the requested tasks.
+
+To be Updated
